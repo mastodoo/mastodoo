@@ -1,11 +1,11 @@
-# Mastodoo - Software Development Solutions
+# MastoDoo - Software Development Solutions
 
-Welcome to **Mastodoo's** official GitHub page! We are a software development company dedicated to delivering high-quality, innovative, and reliable solutions for clients worldwide.
+Welcome to **MastoDoo's** official GitHub page! We are a software development company dedicated to delivering high-quality, innovative, and reliable solutions for clients worldwide.
 
 ---
 
 ## 🌟 **About Us**
-At **Mastodoo**, we specialize in web and mobile applications
+At **MastoDoo**, we specialize in web and mobile applications
 
 Our mission is to turn your ideas into reality with cutting-edge technologies and expert craftsmanship.
 
@@ -28,4 +28,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ---
 
-Thank you for visiting **Mastodoo**! 🌟
+Thank you for visiting **MastoDoo**! 🌟
